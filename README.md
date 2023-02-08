@@ -5,7 +5,7 @@ This project was proposed for the Algorithms & Data Structures course at École 
 The problem was solved using three differenc procedures: 
 
 - With a Greedy Algorithm;
-- Using a graph;
+- With a Graph;
 - Using Dynamic Programming;
 
 Finally, the three methods were compared by time complexity.
